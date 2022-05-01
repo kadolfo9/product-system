@@ -1,6 +1,5 @@
 node_modules/
 .idea
-*.lock
 dist/
 .vscode
 .env
